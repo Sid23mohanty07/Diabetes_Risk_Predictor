@@ -23,3 +23,5 @@ The full training notebook is too large to include in this repository.
 🔗 You can access the notebook here: [Diabetes_Prediction_Notebook.ipynb](https://colab.research.google.com/drive/1L647H5gdTbydx0FqSCe3fluZanGpeT7U?usp=drive_link)
 
 The trained model (`model.pkl`) used in the Flask backend was exported from this notebook.
+
+Deployment needs to be fixed. But works fine on http://localhost:3000/
