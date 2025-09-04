@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+.env
+
+# Node
+node_modules/
+build/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Others
+.DS_Store
+*.csv
+*.xlsx
